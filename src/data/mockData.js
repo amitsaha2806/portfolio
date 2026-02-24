@@ -9,10 +9,10 @@ export const profileData = {
   tagline: "Advancing quantum computing through circuit synthesis, quantum algorithms, and higher-dimensional quantum systems",
   bio: "I am a Postdoctoral Researcher at Inria, Paris, and Research Staff at ENS (PSL University), working under the supervision of Dr. Harold Ollivier. My research focuses on quantum computing, with particular emphasis on quantum algorithms, quantum circuit synthesis, measurement-based quantum computing (MBQC), quantum verification and benchmarking, and multi-valued quantum logic systems (qudits). Prior to my current position, I served as a Scientific Expert and Consultant at Eviden (an Atos business), where I contributed to the development of quantum computing libraries and provided technical expertise to clients worldwide.",
   socialLinks: {
-    googleScholar: "https://scholar.google.com",
-    linkedin: "https://linkedin.com",
-    researchGate: "https://researchgate.net",
-    github: "https://github.com"
+    googleScholar: "https://scholar.google.com/citations?user=zmm4zksAAAAJ&hl=en",
+    linkedin: "https://www.linkedin.com/in/amit-saha-05a3387b/",
+    researchGate: "https://www.researchgate.net/profile/Amit-Saha-3",
+    github: "https://github.com/amitsaha2806"
   },
   cvUrl: "https://customer-assets.emergentagent.com/job_5f2808b8-9265-477d-b2a3-ac05f5157697/artifacts/cdolelfp_cv_Amit_final_emergent.pdf"
 };
